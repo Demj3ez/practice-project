@@ -29,3 +29,16 @@ console.log(false||false)
 console.log(!true)
 console.log(!false)
 console.log(!true&&true||false) 
+console.log(5>2)
+console.log(5<2)
+console.log(5<=5)
+console.log(5=='5')
+console.log(5==='5')
+console.log(5!='5');
+(5<2)? console.log('5 is less than 2') : console.log('5 is greater than 2')
+let firstName='Abdulwariz'
+console.log(firstName)
+const lastName='Yusuff'
+console.log(lastName)
+firstName='Demj3ez'
+console.log(firstName)
